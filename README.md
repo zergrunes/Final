@@ -1,2 +1,2 @@
-# Final
-cs2600
+CS2600 NIMA
+Marian Remoroza
